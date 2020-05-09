@@ -17,3 +17,7 @@ Usage:
 3.Check for range of ports:
 
 ./port-checker.sh /home/rakesh/Documents/data/domains.txt 21-80
+
+Credit:
+
+The tool is inspired by @gwen001 https://bit.ly/2zqoC08 script.
