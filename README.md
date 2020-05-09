@@ -1,7 +1,7 @@
 # port-checker
 Script for checking connection to ports using nc.
 
-The script checks for open ports on the provided list of host names.By default the script chekcs for ports 22,80,443.
+The script checks for open ports on the provided list of host names.By default the script checks for ports 22,80,443.
 A specific port number or a range of port numbers can also be provided.
 
 Usage:
